@@ -6,7 +6,6 @@ The results are as follows: --- word --- (and in next line) artist | album | rec
 `git clone https://github.com/Comand94/react-playlist-randomizer`
 
 ### To run this project
-Make sure you have NodeJS installed.
 `npm install` in project folder.
 `npm start` in the same folder. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
