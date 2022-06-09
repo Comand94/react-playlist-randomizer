@@ -1,0 +1,9 @@
+.Song {
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.Song-recording {
+    margin: -1em 0 0 0;
+}
