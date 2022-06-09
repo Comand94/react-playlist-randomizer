@@ -1,16 +1,14 @@
 ### App usage
-Choose a number between 5 and 12. Click the button. Get random word and a song based on it as results (format below).
-		--- word ---
-  artist | album | recording
+Choose a number between 5 and 12. Click the button. Get random word and a song based on it as results.
+The results are as follows: --- word --- (and in next line) artist | album | recording. They are sorted alphabetically by word from left to right. 
 
 ### To clone this repo open a terminal and type
-'git clone https://github.com/Comand94/react-playlist-randomizer'
+`git clone https://github.com/Comand94/react-playlist-randomizer`
 
 ### To run this project
 Make sure you have NodeJS installed.
-`npm install` in project folder
-'npm start' in the same folder
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+`npm install` in project folder.
+`npm start` in the same folder. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### Learn More
